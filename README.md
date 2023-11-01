@@ -1,6 +1,6 @@
 # custom_agg_function:
 
-A custom aggregate function has been developed to calculate the minimum and maximum values for any column of integer, numeric, or float data types. This versatile function supports a wide range of numeric data types and presents its output in the following format:
+This aggregate function has been developed to calculate the minimum and maximum values for any column of integer, numeric, or float data types. This versatile function supports a wide range of numeric data types and presents its output in the following format:
 
 `max_value -> min_value`
 
