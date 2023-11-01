@@ -1,4 +1,4 @@
-# custom_agg_function:
+# custom_aggregate_function:
 
 This aggregate function has been developed to calculate the minimum and maximum values for any column of integer, numeric, or float data types. This versatile function supports a wide range of numeric data types and presents its output in the following format:
 
